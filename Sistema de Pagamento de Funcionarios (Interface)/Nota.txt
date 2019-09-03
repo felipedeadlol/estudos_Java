@@ -1,0 +1,9 @@
+Olá, seja bem vindo ao Sistema de Pagamento de Funcionario!
+
+O sistema tem como principal objetivo gerar contracheques. Recomendaçoes:
+
+1 - Faça o registro da Empresa;
+2 - Faça o registro de pelo menos um Cargo;
+3 - Faça o registro de pelo menos um Funcionario;
+4 - Se preciso, faça alterações;
+5 - Emita comprovantes;
